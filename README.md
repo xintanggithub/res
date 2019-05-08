@@ -1,2 +1,2 @@
 # res
-response
+Resource Storage Directory
